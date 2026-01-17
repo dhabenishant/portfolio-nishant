@@ -2,11 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import complaintBox from "../../Assets/Projects/ComplaintBox.png";
-import suicide from "../../Assets/Projects/suicide.png";
+
 import pmrd from "../../Assets/Projects/pmrd.png";
 
 function Projects() {
@@ -50,7 +48,7 @@ function Projects() {
               title="Soon..."
               description=""
               ghLink="#"
-              demoLink="#"              
+              demoLink="#"
             />
           </Col>
 
